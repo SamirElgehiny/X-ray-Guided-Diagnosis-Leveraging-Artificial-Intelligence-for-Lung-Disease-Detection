@@ -1,6 +1,9 @@
 # X-ray-Guided Diagnosis: Leveraging Artificial Intelligence for Lung Disease Detection
+![covid](https://github.com/SamirElgehiny/X-ray-Guided-Diagnosis-Leveraging-Artificial-Intelligence-for-Lung-Disease-Detection/assets/99847263/8a11f708-7118-49a6-9c8a-f59d44a5e154)
+![Normal](https://github.com/SamirElgehiny/X-ray-Guided-Diagnosis-Leveraging-Artificial-Intelligence-for-Lung-Disease-Detection/assets/99847263/24248ea8-5857-4e4b-bf6d-0dc73c488f31)
+![PNE](https://github.com/SamirElgehiny/X-ray-Guided-Diagnosis-Leveraging-Artificial-Intelligence-for-Lung-Disease-Detection/assets/99847263/be1bc442-7657-4607-b079-adbe5f099189)
 
-![Project Logo/Image]
+
 
 ## Overview
 
